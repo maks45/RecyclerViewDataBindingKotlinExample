@@ -1,2 +1,2 @@
 # RecyclerViewDataBindingKotlinExample
-Simple example of usage recyclerView and DataBinding with Kotlin
+Simple example of usage RecyclerView and DataBinding with Kotlin
